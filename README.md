@@ -2,7 +2,7 @@
 
 ### if you have skins you wanna add to this list or any of the skins from [this playlist](https://www.youtube.com/playlist?list=PLhCpsjNxneK5jRgP5Gibx527VhO8wy_vD), please contact baron6060#6548 or chip#4111 on discord.
 
-other cool skin githubs: [Wonderer's skin list](https://github.com/wonderer0103/wonderer-osu-skins), [Rustbell skins](https://gist.github.com/entwastaken/5c081eca8eb5239af1e52964a8c66ae6), [ryh's skin list](https://github.com/1ryh/ryh-osu-skins), [Garnet27's skin list](https://github.com/Garnet27/osu-Garnet27-Public-Skins/blob/master/Skins.md), [ypan and malis skins](https://github.com/ypan53/skins/blob/main/skins.md), [rudj's skinhub](https://github.com/rudjx3/skins/blob/main/README.md), [osu brazil skins](https://sites.google.com/view/osu-skins-br/skins?authuser=0)
+other cool skin githubs: [Wonderer's skin list](https://github.com/wonderer0103/wonderer-osu-skins), [Rustbell skins](https://gist.github.com/entwastaken/5c081eca8eb5239af1e52964a8c66ae6), [ryh's skin list](https://github.com/1ryh/ryh-osu-skins), [Garnet27's skin list](https://github.com/Garnet27/osu-Garnet27-Public-Skins/blob/master/Skins.md), [ypan and malis skins](https://github.com/ypan53/skins/blob/main/skins.md), [rudj's skinhub](https://github.com/rudjx3/skins/blob/main/README.md), [osu brazil skins](https://sites.google.com/view/osu-skins-br/skins)
 #### *DISCLAIMER: Links on garnet's github are most likely ip loggers, use [urlex](https://urlex.org/) to bypass them.*
 
 ***
@@ -108,6 +108,10 @@ other cool skin githubs: [Wonderer's skin list](https://github.com/wonderer0103/
 # [DJ Fuduji](https://mega.nz/file/9cwx1arD#Io4YhT5Bj6Lhj7885sJymgnlbjTfvCcutIrhDeI6Vqk) | [Preview](https://youtu.be/twFa93VF50Q)
 ![](https://user-images.githubusercontent.com/58571851/138345564-57e41e64-afae-4b01-afe0-b9b1641eb16e.jpg)
 
+# [dragonhuman](https://ariaisdumb.s-ul.eu/HbapL1iE) | [Preview](https://youtu.be/mxP3sc8GlNU?t=328)
+### Thanks [ArtistMatsuri](https://osu.ppy.sh/users/16518808) for sharing the skin!
+![](https://user-images.githubusercontent.com/86570889/200825280-2fa93c75-06a9-442a-bd22-ccf7625fbccc.jpg)
+
 # [Dungeon](https://mega.nz/file/gAwgXBKK#PVxW_Er1LxVdLz63mHAPJJYD79GPdJzJ3S2cSUSvrL4) | [Preview](https://youtu.be/3-_SDf4gs9w?t=880)
 ![](https://user-images.githubusercontent.com/86570889/123674457-2626b480-d831-11eb-9cfe-c7afa772d871.jpg)
 
@@ -121,7 +125,7 @@ other cool skin githubs: [Wonderer's skin list](https://github.com/wonderer0103/
 # [Emperorpenguin83](https://mega.nz/file/wFpkBa4C#jWvHS2ebzWb2ne0RgPpUBMJlUpWEKtaZUzxhp5sCPU0) | [Preview](https://youtu.be/iAbjCPWdxk4)
 ![](https://user-images.githubusercontent.com/86570889/123664725-20c46c80-d827-11eb-8318-6d64982cef63.jpg)
 
-# [exhibit c remake](https://xohlity.s-ul.eu/fFd3Jwli) | [Preview](https://streamable.com/bk7s76)
+# [exhibit c remake](https://cdn.discordapp.com/attachments/1033055063951822938/1038318662748213278/exhibit_c.osk) | [Preview](https://streamable.com/bk7s76)
 ### Massive thanks to xohlity#1209 , hael#7011 and Nymphia#8610 (NCRONFNTOPHLIAC#6452 for helping with sliderb0 and hit animations) for remaking the skin.
 ![screenshot4284](https://user-images.githubusercontent.com/58571851/197828776-06589849-dd22-41ab-936f-2768422f7a9e.jpg)
 
@@ -207,9 +211,9 @@ other cool skin githubs: [Wonderer's skin list](https://github.com/wonderer0103/
 # [Moe[Sagi]ri](https://excel.s-ul.eu/1ZRimpg615PC9FvY.osk) | [Preview](https://streamable.com/538n2p)
 ![](https://user-images.githubusercontent.com/58571851/123553215-8a3e6f80-d782-11eb-8705-678b71439c0c.jpg)
 
-# [morgan coven fyre remake](https://b.catgirlsare.sexy/I3Eb-6bA7H-L.osk) | [Preview](https://youtu.be/ax1kPLeTWA0)
+# [fyre natori remake](https://www.mediafire.com/file/40ziagie2b1j15l/-__natori.osk/file) | [Preview](https://youtu.be/ax1kPLeTWA0)
 ### THANKS Nymphia#8610 FOR REMAKING THE SKIN!!!!!!!!
-![](https://user-images.githubusercontent.com/58571851/197208474-c1def489-4723-4332-8a4b-c29030eff5ea.jpg)
+![](https://user-images.githubusercontent.com/86570889/200828024-a93f09e2-a7ba-4021-8c06-94f5c76cb7e3.jpg)
 
 # [morgan spring](https://excel.s-ul.eu/RtO67Vrejj2yBIQb.osk) | [Preview](https://youtu.be/1TJvisuaXoY)
 ![](https://user-images.githubusercontent.com/58571851/153713266-f4fe26af-e74e-447a-938b-026f0d2648ed.jpg)
