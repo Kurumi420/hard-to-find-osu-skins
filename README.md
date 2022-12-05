@@ -85,7 +85,7 @@ other cool skin githubs: [Wonderer's skin list](https://github.com/wonderer0103/
 ### Thanks Rishard#2011 for sharing the skin!
 ![](https://user-images.githubusercontent.com/58571851/179580763-035fd0d8-2cb3-4619-b70b-30cfe8708e63.jpg)
 
-# [Ceptin](https://mega.nz/file/ZNImia7C#JUxZqY8jJmwnPKRNxxkwaMfF_spu_HwVXKMKsIEOhBs) | [Preview](https://youtu.be/_EXYFIiavVA)
+# [Ceptin](https://mega.nz/file/ZNImia7C#JUxZqY8jJmwnPKRNxxkwaMfF_spu_HwVXKMKsIEOhBs) | [Preview](https://streamable.com/irouyh)
 ![](https://user-images.githubusercontent.com/86570889/205636210-001e9ac7-8d05-4ba3-a8f1-5c4bd177f05b.jpg)
 
 # [Charlotte ava](https://twelve14.s-ul.eu/ZgOYtpBY) | [Preview](https://youtu.be/Yhjm0T5H6mc)
