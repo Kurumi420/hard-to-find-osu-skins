@@ -34,7 +34,7 @@ other cool skin githubs: [Wonderer's skin list](https://github.com/wonderer0103/
 # [aetrnaMikoto](https://mega.nz/file/5QoijSoa#nR2PMY0rrsIHoug0puMQ52fRtU2ezGRnlWNRoCd5144) | [Preview](https://youtu.be/6w_BfxtB6wA)
 ![](https://user-images.githubusercontent.com/86570889/123661420-0b017800-d824-11eb-8051-08275447fd73.jpg)
 
-# [aetrus remake](https://mega.nz/file/kcxwHBST#va-ZhQimSurMZkOoNmuANjCo2VGvegg_MIJHHJ9kQcg) | [Preview](https://youtu.be/Q1_UrauWgrY)
+# [aetrnus remake](https://mega.nz/file/kcxwHBST#va-ZhQimSurMZkOoNmuANjCo2VGvegg_MIJHHJ9kQcg) | [Preview](https://youtu.be/Q1_UrauWgrY)
 ![](https://user-images.githubusercontent.com/58571851/124380133-ccf0d200-dcc3-11eb-99cc-217fddf6c195.jpg)
 
 # [Alumetorz](https://ariaisdumb.s-ul.eu/C51sFAmf) | [Preview](https://youtu.be/uZFI-GcCCuw)
