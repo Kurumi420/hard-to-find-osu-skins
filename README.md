@@ -2,9 +2,9 @@
 
 ### if you have skins you wanna add to this list or any of the skins from [this playlist](https://www.youtube.com/playlist?list=PLhCpsjNxneK5jRgP5Gibx527VhO8wy_vD), please contact baron6060#6548 or chip#4111 on discord.
 
-other cool skin githubs: [Wonderer's skin list](https://github.com/wonderer0103/wonderer-osu-skins), [Rustbell skins](https://gist.github.com/entwastaken/5c081eca8eb5239af1e52964a8c66ae6), [ryh's skin list](https://github.com/1ryh/ryh-osu-skins), [Garnet27's skin list](https://github.com/Garnet27/osu-Garnet27-Public-Skins/blob/master/Skins.md), [ypan and malis skins](https://github.com/ypan53/skins/blob/main/skins.md), [rudj's skinhub](https://github.com/rudjx3/skins/blob/main/README.md), [osu brazil skins](https://sites.google.com/view/osu-skins-br/skins)
+other cool skin githubs: [Nymphia's skin github](https://github.com/nymphiaosu/funne-pribet-skins), [NCRONFNTOPHLIAC's gdrive](https://drive.google.com/drive/folders/1s1sGgDxDs55xxMXhsPta3LllSyFFj96Q), [Wonderer's skin list](https://github.com/wonderer0103/wonderer-osu-skins), [Rustbell skins](https://gist.github.com/entwastaken/5c081eca8eb5239af1e52964a8c66ae6), [ryh's skin list](https://github.com/1ryh/ryh-osu-skins), [Garnet27's skin list](https://github.com/Garnet27/osu-Garnet27-Public-Skins/blob/master/Skins.md), [ypan and malis skins](https://github.com/ypan53/skins/blob/main/skins.md), [rudj's skinhub](https://github.com/rudjx3/skins/blob/main/README.md), [osu brazil skins](https://sites.google.com/view/osu-skins-br/skins)
 #### *DISCLAIMER: Links on garnet's github are most likely ip loggers, use [urlex](https://urlex.org/) to bypass them.*
-
+#### Pro tip: CHECK NYMPHIAS GITHUB RIGHT NOW!
 ***
 
 # [Trinoline](https://mega.nz/file/cExi0Kga#-U0tyrp1TTJsuq-jdfaf8rf6bngti-Br1BJVKFC9Bjo) | [Preview](https://youtu.be/NIwMJGnCzqE)
