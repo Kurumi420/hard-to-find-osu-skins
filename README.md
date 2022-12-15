@@ -20,7 +20,6 @@ other cool skin githubs: [Nymphia's skin github](https://github.com/nymphiaosu/f
 # [5th v1.5](https://excel.s-ul.eu/ve9Y88Qt2wR9aUFP.osk) | [Preview](https://streamable.com/wxez23)
 ![](https://user-images.githubusercontent.com/58571851/123552322-49dcf280-d77e-11eb-8207-187c31a47eb8.jpg)
 
-
 # [Acxeleration](https://excel.s-ul.eu/m9jDd8QyybrVa5CE.osk) | [Preview](https://youtu.be/AY1O26D_vzo)
 ![](https://user-images.githubusercontent.com/58571851/123552485-09ca3f80-d77f-11eb-9fa3-ddf82fdeef92.jpg)
 
@@ -34,8 +33,8 @@ other cool skin githubs: [Nymphia's skin github](https://github.com/nymphiaosu/f
 # [aetrnaMikoto](https://mega.nz/file/5QoijSoa#nR2PMY0rrsIHoug0puMQ52fRtU2ezGRnlWNRoCd5144) | [Preview](https://youtu.be/6w_BfxtB6wA)
 ![](https://user-images.githubusercontent.com/86570889/123661420-0b017800-d824-11eb-8051-08275447fd73.jpg)
 
-# [aetrnus remake](https://mega.nz/file/kcxwHBST#va-ZhQimSurMZkOoNmuANjCo2VGvegg_MIJHHJ9kQcg) | [Preview](https://youtu.be/Q1_UrauWgrY)
-![](https://user-images.githubusercontent.com/58571851/124380133-ccf0d200-dcc3-11eb-99cc-217fddf6c195.jpg)
+# [aetrnus remake](https://mega.nz/file/VYxw2aBa#1dsZi4_j51XLMdW9WBJmNIa737ndg91Nt-OeQ04WK9Q) | [Preview](https://youtu.be/Q1_UrauWgrY)
+![](https://user-images.githubusercontent.com/86570889/207893758-58fb632d-32ae-419b-b05c-03978c6a9c79.jpg)
 
 # [Alumetorz](https://ariaisdumb.s-ul.eu/C51sFAmf) | [Preview](https://youtu.be/uZFI-GcCCuw)
 ![](https://user-images.githubusercontent.com/86570889/205634772-841b5a42-883b-4714-a969-c0cf12ff03b9.jpg)
