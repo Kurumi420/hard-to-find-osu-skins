@@ -287,7 +287,7 @@ other cool skin githubs: [Nymphia's skin github](https://github.com/nymphiaosu/f
 # [Recia](https://mega.nz/file/RMQkyJ5b#aEQWsfXTKpC5kgq86Ly5q3MNXZv0_-TSOLArKBKswzU) | [Preview](https://youtu.be/dmWdqAS8wAU)
 ![](https://user-images.githubusercontent.com/86570889/123666572-de039400-d828-11eb-8898-485374d982f6.jpg)
 
-# [Rixia Mao](https://mega.nz/file/YBQ3zSDC#EUmbuqdv8kIoyhnjdpAdwbYyVa4-EIveUCm5kCjpfbA) | [Preview](https://youtu.be/YbRBnuq9JAw?t=93)
+# [Rixia Mao](https://mega.nz/file/9EpEUTQR#RnyxxxuhoKkd3RmuwCtzBKe3RyvRNmcKcmGsn7dzVhI) | [Preview](https://youtu.be/YbRBnuq9JAw?t=93)
 ![](https://user-images.githubusercontent.com/86570889/198282920-1c37745a-721c-4047-918e-d1b99b731d3a.jpg)
 
 # [Saw](https://mega.nz/file/wEhBwYDI#Ko3FUrJx7RTe1TZ1fAuXDLYNsRLBbWUHXFzl80ZYkh8) | [Preview](https://streamable.com/uk25ph)
