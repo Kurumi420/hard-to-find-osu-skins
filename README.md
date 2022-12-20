@@ -118,7 +118,7 @@ other cool skin githubs: [Nymphia's skin github](https://github.com/nymphiaosu/f
 ### Thanks Rishard#2011 for sharing the skin!
 ![](https://user-images.githubusercontent.com/58571851/185670391-9b1199a6-5fc3-4fb6-b31e-837cab873fa4.jpg)
 
-# [DJ Fuduji](https://mega.nz/file/9cwx1arD#Io4YhT5Bj6Lhj7885sJymgnlbjTfvCcutIrhDeI6Vqk) | [Preview](https://youtu.be/twFa93VF50Q)
+# [DJ Fuduji](https://mega.nz/file/9cwx1arD#Io4YhT5Bj6Lhj7885sJymgnlbjTfvCcutIrhDeI6Vqk) | [Preview](https://streamable.com/umjfet)
 ![](https://user-images.githubusercontent.com/58571851/138345564-57e41e64-afae-4b01-afe0-b9b1641eb16e.jpg)
 
 # [dragonhuman](https://ariaisdumb.s-ul.eu/HbapL1iE) | [Preview](https://youtu.be/mxP3sc8GlNU?t=328)
@@ -138,8 +138,8 @@ other cool skin githubs: [Nymphia's skin github](https://github.com/nymphiaosu/f
 # [Emperorpenguin83](https://mega.nz/file/wFpkBa4C#jWvHS2ebzWb2ne0RgPpUBMJlUpWEKtaZUzxhp5sCPU0) | [Preview](https://youtu.be/iAbjCPWdxk4)
 ![](https://user-images.githubusercontent.com/86570889/123664725-20c46c80-d827-11eb-8318-6d64982cef63.jpg)
 
-# [exhibit c remake](https://cdn.discordapp.com/attachments/1033055063951822938/1038318662748213278/exhibit_c.osk) | [Preview](https://streamable.com/bk7s76)
-### Massive thanks to xohlity#1209 , hael#7011 and Nymphia#8610 (NCRONFNTOPHLIAC#6452 for helping with sliderb0 and hit animations) for remaking the skin.
+# [exhibit III](https://b.catgirlsare.sexy/gciIqT7VKFcI.osk) | [Preview](https://youtu.be/WRcYYQacXh0)
+### Massive thanks to xohlity#2307, hael#7011 and Nymphia#8610 (NCRONFNTOPHLIAC#6452 for helping with sliderb0 and hit animations) for remaking the skin.
 ![screenshot4284](https://user-images.githubusercontent.com/58571851/197828776-06589849-dd22-41ab-936f-2768422f7a9e.jpg)
 
 # [evb 1](https://mega.nz/file/kN52jKzY#Q5jIOQGTIT3lJJVA4HtLonKQyxaeSR1gzN16ow6S4Ek) | [Preview](https://youtu.be/mqoTTvdUsH4)
